@@ -1,0 +1,8 @@
+baseURL = "https://Aphelion011.github.io/"
+languageCode = "zh-cn"
+title = "Aphelion011 的个人博客"
+theme = "PaperMod"
+
+[params]
+  author = "Aphelion011"
+  description = "记录学习与生活"
